@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="165" viewBox="0 0 165 165">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.95px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="線_1" data-name="線 1" class="cls-1" d="M10,13.525l3.536-3.536,141.42,141.423-3.536,3.535Z"/>
+  <path id="線_1_のコピー" data-name="線 1 のコピー" class="cls-1" d="M13.54,154.951L10,151.416,151.428,10l3.535,3.536Z"/>
+</svg>
